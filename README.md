@@ -113,6 +113,7 @@ sobre los derechos de autor de xAct.
 ## Worshop notebook // Cuaderno del taller
 
 **EN**: 
+
 Long course: The xAct workshop at Instituto Superior Técnico and  Institut de Mathématiques Bourgogne consisted of two sessions of 2h each the corresponding notebook can be found here: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
 Short course: The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consists of two sessions of 40mins each and the corresponding notebook can be found here: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
@@ -120,6 +121,7 @@ Short course: The xAct workshop at the Division of Gravitation and Mathematical 
 **Suggestion**: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. Execute each cell from begining to end to see what each command does. Delete when necessary the semicolon (;) in each line to display the intermediate steps. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
 
 **ES**:
+
 Curso Largo: El taller xAct en el Instituto Superior Técnico y el Institut de Mathématiques Bourgogne consistió en dos sesiones de 2h cada una. El cuaderno correspondiente se puede encontrar aquí: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
 Curso Corto: El taller de xAct que impartiré en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
