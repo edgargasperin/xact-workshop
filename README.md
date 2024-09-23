@@ -66,7 +66,9 @@ Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro
 
 ## Setp 6 // Paso 6:
 EN: To check you have installed xAct correctly open a mathematica
-notebook and type (copy and paste) the following: <<xAct`xTensor`
+notebook and type (copy and paste) the following:  
+
+`<<xAct`xTensor``
 
 and do shift and enter to evaluate the cell. It should give message
 about the copyrights of xAct.
@@ -83,7 +85,7 @@ EN: The workshop notebook can be downloaded here. XXXXXXXXXXXX.
 
 Warning: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
 
-ES: ES: El cuaderno del taller se puede descargar aquí. XXXXXXXXXXXX.
+ES: El cuaderno del taller se puede descargar aquí. XXXXXXXXXXXX.
 
 Advertencia: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Los code snippets (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
