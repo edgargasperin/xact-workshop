@@ -108,7 +108,7 @@ The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)
 
 El taller de xAct que impartiré en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: XXXX
 
-**Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea que es lo que cada comando hace. Quite el punto y coma en cada línea para ver los pasos intermedios. Los **code-snippets** (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
+**Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea que es lo que cada comando hace. Quite el punto y coma en cada línea para ver los pasos intermedios. Los *code snippets* (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
 ## Contact // Contacto
 
