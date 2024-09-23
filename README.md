@@ -114,7 +114,7 @@ sobre los derechos de autor de xAct.
 
 **EN**: 
 
-Long course: The xAct workshop at Instituto Superior Técnico and  Institut de Mathématiques Bourgogne consisted of two sessions of 2h each the corresponding notebook can be found here: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
+Intensive course: The xAct workshop at Instituto Superior Técnico and  Institut de Mathématiques Bourgogne consisted of two sessions of 2h each the corresponding notebook can be found here: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
 Crash course: The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consists of two sessions of 40mins each and the corresponding notebook can be found here: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
