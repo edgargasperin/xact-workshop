@@ -16,12 +16,16 @@
 ### Step 1 // Paso 1: 
 
 **EN**: Go to 
+
 http://www.xact.es/download.html
+
 and download the corresponding file (depending if you are using Linux or
 Windows or Mac)
 
 **ES**: Vaya a la pagina web
+
 http://www.xact.es/download.html
+
 y descargue el archivo correspondiente (dependiendo si es usuario de Linux, Windows o Mac)
 
 ### Step 2 // Paso 2:
@@ -97,12 +101,12 @@ sobre los derechos de autor de xAct.
 **EN**: The xAct workshop at Instituto Superior Técnico and  Institut de Mathématiques Bourgogne consisted of two sessions of 2h each the corresponding notebook can be found here: XXXX
 The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consists of two sessions of 40mins each and the corresponding notebook can be found here: XXXX
 
-Warning: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
+**Warning**: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
 
 **ES**: El taller xAct en el Instituto Superior Técnico y el Institut de Mathématiques Bourgogne consistió en dos sesiones de 2h cada una. El cuaderno correspondiente se puede encontrar aquí: XXXX
 El taller de xAct que impartiré en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: XXXX
 
-Advertencia: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Los code snippets (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
+**Advertencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Los code snippets (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
 ## Contact // Contacto
 
