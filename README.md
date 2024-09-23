@@ -1,7 +1,7 @@
 # xAct-Workshop // Taller de xAct
 
 EN: This is a crash course on the use of xAct that I have given in different institutions (Instituto Superior Técnico, Institut de Mathématiques Bourgogne and 
-in the Mexican Physics Society). This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this short course.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can ne easily followed by execuiting cell by cell the course notebook.
+in the Mexican Physics Society). This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can ne easily followed by execuiting cell by cell the course notebook.
 
 
 ES: Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes instituciones (Instituto Superior Técnico, Institut de Mathématiques Bourgogne y 
