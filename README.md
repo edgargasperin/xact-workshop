@@ -110,13 +110,17 @@ Advertencia: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de
 
 edgar[dot]gasperin[at]tecnico.ulisboa.pt
 
-I have used xAct in several of my research projects, you can have a look at my papers and my research here: https://edgargasperin.github.io/
+I have used xAct in several of my research projects, you can have a look at my papers and my research here:
+
+https://edgargasperin.github.io/
 
 **ES**: Si tienes comentarios, sugerencias o preguntas puedes enviarme un correo a
 
 edgar[dot]gasperin[at]tecnico.ulisboa.pt
 
-He usado xAct en varios de mis proyectos de investigación, puedes echarle un vistazo a mis artículos y a mi investigación en https://edgargasperin.github.io/
+He usado xAct en varios de mis proyectos de investigación, puedes echarle un vistazo a mis artículos y a mi investigación en 
+
+https://edgargasperin.github.io/
 
 
 
