@@ -67,8 +67,9 @@ Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro
 ## Setp 6 // Paso 6:
 EN: To check you have installed xAct correctly open a mathematica
 notebook and type (copy and paste) the following:  
-
-`<<xAct`xTensor``
+```
+ <<xAct`xTensor`
+```
 
 and do shift and enter to evaluate the cell. It should give message
 about the copyrights of xAct.
