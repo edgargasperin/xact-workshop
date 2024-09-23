@@ -122,7 +122,7 @@ Crash course: The xAct workshop at the Division of Gravitation and Mathematical 
 
 **ES**:
 
-Curso largo: El taller xAct en el Instituto Superior Técnico y el Institut de Mathématiques Bourgogne consistió en dos sesiones de 2h cada una. El cuaderno correspondiente se puede encontrar aquí: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
+Curso intensivo: El taller xAct en el Instituto Superior Técnico y el Institut de Mathématiques Bourgogne consistió en dos sesiones de 2h cada una. El cuaderno correspondiente se puede encontrar aquí: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
 Curso corto: El taller de xAct que impartiré en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: [Empty_File_To_Be_Uploaded](Notebooks/EmptyFile_Test_File.nb)
 
