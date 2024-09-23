@@ -1,9 +1,23 @@
 # xAct-Workshop // Taller de xAct
 
-**EN**: This is a crash course on the use of xAct (www.xAct.es) that I have given in different institutions. This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can ne easily followed by execuiting cell by cell the course notebook.
+**EN**:
+What is xAct?:
+
+*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see [www.xAct.es] (www.xAct.es)
+
+About this workshop:
+
+This is a crash course on the use of xAct that I have given in different institutions. This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can ne easily followed by execuiting cell by cell the course notebook.
 
 
-**ES**: Este es un curso intensivo sobre el uso de xAct (www.xAct.es) que he impartido en diferentes instituciones. Este taller de xAct está pensado como una introducción para estudiantes e investigadores interesados ​​en utilizar xAct para realizar cálculo tensorial. El taller es muy práctico y el curso usa un notebook que he creado con este objetivo.  Los únicos requisitos previos son tener una licencia de Mathematica vigente e instalar xAct como se describe a continuación. No se asumen conocimientos previos de Mathematica y se pueden seguir fácilmente ejecutando celda por celda el cuaderno del curso.
+**ES**:
+¿Qué es xAct?:
+
+*xAct* es un paquete de *Mathematica* para realizar cálculo tensorial. Este paquete de algebra simbólica es una poderosa herramienta en diferentes áreas de Relatividad General. Para mayor información consulte [www.xAct.es] (www.xAct.es)
+
+Acerca de este curso:
+
+Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes instituciones. Este taller de xAct está pensado como una introducción para estudiantes e investigadores interesados ​​en utilizar xAct para realizar cálculo tensorial. El taller es muy práctico y el curso usa un notebook que he creado con este objetivo.  Los únicos requisitos previos son tener una licencia de Mathematica vigente e instalar xAct como se describe a continuación. No se asumen conocimientos previos de Mathematica y se pueden seguir fácilmente ejecutando celda por celda el cuaderno del curso.
 
 ## xAct installation // Instalación de xAct
 
@@ -17,14 +31,14 @@
 
 **EN**: Go to 
 
-http://www.xact.es/download.html
+[http://www.xact.es/download.html] (http://www.xact.es/download.html)
 
 and download the corresponding file (depending if you are using Linux or
 Windows or Mac)
 
 **ES**: Vaya a la pagina web
 
-http://www.xact.es/download.html
+[http://www.xact.es/download.html] (http://www.xact.es/download.html)
 
 y descargue el archivo correspondiente (dependiendo si es usuario de Linux, Windows o Mac)
 
@@ -118,7 +132,7 @@ edgar[dot]gasperin[at]tecnico.ulisboa.pt
 
 I have used xAct in several of my research projects, you can have a look at my papers and my research here:
 
-https://edgargasperin.github.io/
+[https://edgargasperin.github.io/](https://edgargasperin.github.io/)
 
 **ES**: Si tienes comentarios, sugerencias o preguntas puedes enviarme un correo a
 
@@ -126,7 +140,7 @@ edgar[dot]gasperin[at]tecnico.ulisboa.pt
 
 He usado xAct en varios de mis proyectos de investigación, puedes echarle un vistazo a mis artículos y a mi investigación en 
 
-https://edgargasperin.github.io/
+[https://edgargasperin.github.io/](https://edgargasperin.github.io/)
 
 
 
