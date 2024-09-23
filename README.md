@@ -5,7 +5,7 @@ in the Mexican Physics Society). This xAct workshop is meant as an introduction 
 
 
 ES: Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes instituciones (Instituto Superior Técnico, Institut de Mathématiques Bourgogne y 
-en la Sociedad Mexicana de Física). Este taller de xAct está pensado como una introducción para estudiantes e investigadores interesados ​​en utilizar xAct para realizar cálculo tensorial. El taller es muy práctico y se puede seguir fácilmente descargando el cuaderno que he creado para este curso.  Los únicos requisitos previos son tener una licencia de Mathematica vigente e instalar xAct como se describe a continuación. No se asumen conocimientos previos de Mathematica y se pueden seguir fácilmente ejecutando celda por celda el cuaderno del curso.
+en la Sociedad Mexicana de Física). Este taller de xAct está pensado como una introducción para estudiantes e investigadores interesados ​​en utilizar xAct para realizar cálculo tensorial. El taller es muy práctico y el curso usa un notebook que he creado con este objetivo.  Los únicos requisitos previos son tener una licencia de Mathematica vigente e instalar xAct como se describe a continuación. No se asumen conocimientos previos de Mathematica y se pueden seguir fácilmente ejecutando celda por celda el cuaderno del curso.
 
 ## xAct installation // Instalación de xAct
 
