@@ -86,7 +86,7 @@ folder to copy is xAct which is inside xAct_1.1.5.
 
 **ES**: Dentro del directorio xAct_1.1.5 debe haber un subdirectorio
 llamado xAct. Copie este subdirectorio llamado xAct en X/Aplicaciones.
-**Asegúrese de haber copiado el subdirectorio xAct en X/Aplicaciones y
+**Asegúrese de haber copiado el subdirectorio xAct en X/Aplications y
 no el directorio xAct_1.1.5 ya que esto último es un error muy común en la instalación.**
 Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro de xAct_1.1.5. 
 
