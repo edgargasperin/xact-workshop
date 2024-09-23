@@ -1,25 +1,23 @@
 # xAct-Workshop // Taller de xAct
 
 **EN**:
-What is xAct?:
 
-*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see
+**What is xAct?**:
 
-[www.xAct.es] (www.xAct.es)
+*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see [www.xAct.es] (www.xAct.es)
 
-About this workshop:
+**About this workshop**:
 
 This is a crash course on the use of xAct that I have given in different institutions. This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can ne easily followed by execuiting cell by cell the course notebook.
 
 
 **ES**:
-¿Qué es xAct?:
 
-*xAct* es un paquete de *Mathematica* para realizar cálculo tensorial. Este paquete de algebra simbólica es una poderosa herramienta en diferentes áreas de Relatividad General. Para mayor información consulte
+**¿Qué es xAct?**:
 
-[www.xAct.es] (www.xAct.es)
+*xAct* es un paquete de *Mathematica* para realizar cálculo tensorial. Este paquete de algebra simbólica es una poderosa herramienta en diferentes áreas de Relatividad General. Para mayor información consulte [www.xAct.es] (www.xAct.es)
 
-Acerca de este curso:
+**Acerca de este curso**:
 
 Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes instituciones. Este taller de xAct está pensado como una introducción para estudiantes e investigadores interesados ​​en utilizar xAct para realizar cálculo tensorial. El taller es muy práctico y el curso usa un notebook que he creado con este objetivo.  Los únicos requisitos previos son tener una licencia de Mathematica vigente e instalar xAct como se describe a continuación. No se asumen conocimientos previos de Mathematica y se pueden seguir fácilmente ejecutando celda por celda el cuaderno del curso.
 
