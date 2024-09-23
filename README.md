@@ -75,7 +75,10 @@ and do shift and enter to evaluate the cell. It should give message
 about the copyrights of xAct.
 
 ES:  Para comprobar que ha instalado xAct correctamente, abra un Mathematica
-cuaderno y escriba (copie y pegue) lo siguiente:  <<xAct`xTensor`
+cuaderno y escriba (copie y pegue) lo siguiente: 
+```
+ <<xAct`xTensor`
+```
 
 y haga "shift" + "enter" para evaluar la celda.  Si la instalación es correcta, la celda al evaluarse dará un mensaje
 sobre los derechos de autor de xAct.
