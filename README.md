@@ -30,13 +30,14 @@ xAct_1.1.5.tgz or similar) and uncompress it.
 ES: Vaya al folder donde descargó el archivo (cuyo nombre es xAct_1.1.5.tgz o similar) y descomprímalo. 
 
 ## Step 3 // Paso 3:
-EN: Open a Mathematica notebook and type $UserBaseDirectory and do
-shift and enter to evaluate that cell.
+EN: Open a Mathematica notebook and type 
+$UserBaseDirectory 
+and do shift and enter to evaluate that cell.
 Then, copy the location "X" it gives you. In my case X is
 /home/gasperin/.Mathematica
 
-ES: Abra un cuaderno de Mathematica y escriba $UserBaseDirectory y oprima "shift"
-y "enter" para evaluar esa celda.
+ES: Abra un cuaderno de Mathematica y escriba 
+$UserBaseDirectory y oprima "shift" y "enter" para evaluar esa celda.
 Luego, copie la ubicación "X" que te proporciona. En mi caso por ejemplo es 
 /home/gasperin/.Mathematica
 
@@ -58,14 +59,13 @@ folder to copy is xAct which is inside xAct_1.1.5.
 ES: Dentro del directorio xAct_1.1.5 debe haber un subdirectorio
 llamado xAct. Copie este subdirectorio llamado xAct en X/Aplicaciones.
 Asegúrese de haber copiado el subdirectorio xAct en X/Aplicaciones y
-no el directorio xAct_1.1.5.
-ya que este último es un error común en la instalación.
-La carpeta que se debe copiar se llama xAct y está está dentro de xAct_1.1.5. 
+no el directorio xAct_1.1.5 ya que esto último es un error muy común en la instalación.
+Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro de xAct_1.1.5. 
 
 
 ## Setp 6 // Paso 6:
 EN: To check you have installed xAct correctly open a mathematica
-notebook and type.
+notebook and type (copy and paste) the following:
 
 <<xAct`xTensor`
 
@@ -77,7 +77,7 @@ cuaderno y escriba (copie y pegue) lo siguiente:
 
 <<xAct`xTensor`
 
-y haga "shift" + "enter" para evaluar la celda.  Si la instalación es correcta, la celda al evaluarse deberia dar mensaje
+y haga "shift" + "enter" para evaluar la celda.  Si la instalación es correcta, la celda al evaluarse dará un mensaje
 sobre los derechos de autor de xAct.
 
 ## Worshop notebook // Cuaderno del taller
