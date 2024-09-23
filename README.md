@@ -11,6 +11,7 @@ en la Sociedad Mexicana de Física). Este taller de xAct está pensado como una 
 
 ### Step 0 // Paso 0:
 EN: Have Mathematica installed. Some institutions give Mathematica licences to their students and researchers. Check wether you are entitled to a Mathematica licence with your institution and install it.
+
 ES: Asegúrese de tener Mathematica instalado en su computadora. Algunas instituciones otorgan licencias de Mathematica a sus estudiantes e investigadores. Verifique si tiene derecho a una licencia de Mathematica en su institución e instálela.
 
 ### Step 1 // Paso 1: 
