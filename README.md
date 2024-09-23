@@ -32,13 +32,18 @@ ES: Vaya al folder donde descargó el archivo (cuyo nombre es xAct_1.1.5.tgz o s
 
 ## Step 3 // Paso 3:
 EN: Open a Mathematica notebook and type 
+```
 $UserBaseDirectory 
+```
 and do shift and enter to evaluate that cell.
 Then, copy the location "X" it gives you. In my case X is
 /home/gasperin/.Mathematica
 
 ES: Abra un cuaderno de Mathematica y escriba 
-$UserBaseDirectory y oprima "shift" y "enter" para evaluar esa celda.
+```
+$UserBaseDirectory 
+```
+ y oprima "shift" y "enter" para evaluar esa celda.
 Luego, copie la ubicación "X" que te proporciona. En mi caso por ejemplo es 
 /home/gasperin/.Mathematica
 
@@ -52,15 +57,15 @@ subdirectorio llamado "Applications".
 ## Step 5 // Paso 5:
 EN: Inside the directory xAct_1.1.5 there must be a subdirectory
 called xAct. Copy this subdirectory called xAct into X/Applications.
-*Make sure you have copied the subdirectory xAct into X/Applications and
+**Make sure you have copied the subdirectory xAct into X/Applications and
 not xAct_1.1.5.
-since the latter is a common mistake in the installation*. The relevant
+since the latter is a common mistake in the installation**. The relevant
 folder to copy is xAct which is inside xAct_1.1.5.
 
 ES: Dentro del directorio xAct_1.1.5 debe haber un subdirectorio
 llamado xAct. Copie este subdirectorio llamado xAct en X/Aplicaciones.
-*Asegúrese de haber copiado el subdirectorio xAct en X/Aplicaciones y
-no el directorio xAct_1.1.5 ya que esto último es un error muy común en la instalación.*
+**Asegúrese de haber copiado el subdirectorio xAct en X/Aplicaciones y
+no el directorio xAct_1.1.5 ya que esto último es un error muy común en la instalación.**
 Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro de xAct_1.1.5. 
 
 
