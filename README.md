@@ -32,14 +32,14 @@ Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes i
 
 **EN**: Go to 
 
-[https://josmar493.dreamhosters.com/download.html] (http://www.xact.es/download.html)
+[https://josmar493.dreamhosters.com/download.html] (https://josmar493.dreamhosters.com/download.html)
 
 and download the corresponding file (depending if you are using Linux or
 Windows or Mac)
 
 **ES**: Vaya a la pagina web
 
-[https://josmar493.dreamhosters.com/download.html] (http://www.xact.es/download.html)
+[https://josmar493.dreamhosters.com/download.html] (https://josmar493.dreamhosters.com/download.html)
 
 y descargue el archivo correspondiente (dependiendo si es usuario de Linux, Windows o Mac)
 
