@@ -4,7 +4,7 @@
 
 **What is xAct?**:
 
-*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see [https://josmar493.dreamhosters.com/] (www.xAct.es)
+*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see [https://josmar493.dreamhosters.com/](www.xAct.es) . [https://edgargasperin.github.io/](https://edgargasperin.github.io/)
 
 **About this workshop**:
 
