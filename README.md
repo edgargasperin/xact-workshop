@@ -125,6 +125,17 @@ Curso corto: El taller de xAct que impartiré en la División de Gravitación y 
 
 **Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea que es lo que cada comando hace. Quite el punto y coma (;) en cada línea para ver los pasos intermedios. Los *code snippets* (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
+
+## Additional material // Material complementario
+
+**EN**: 
+
+NP calculator: Here you can find a notebook that, given a null tetrad, computes the curvature and spin-coefficients of the Newman-Penrose formalism: [NPcalculator](Notebooks/NP_Calculator.nb)
+
+**ES**:
+
+Calculadora NP: Aqui puede encontrar un cuaderno que, dada una tetrada nula, calcula la curvatura y los coeficientes de espín del formalismo de Newman-Penrose: [CalculadoraNP](Notebooks/NP_Calculator.nb)
+
 ## Contact // Contacto
 
 **EN**: If you have comments, suggestions or questions you can send me an email to 
