@@ -115,13 +115,13 @@ sobre los derechos de autor de xAct.
 
 **EN**: 
 
-Crash course: The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consists of two sessions of 40mins each and the corresponding notebook can be found here: [crash-course-notebook](Notebooks/xActLectureMexico_workshop.nb)
+Crash course: The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consisted of two sessions of 40mins each and the corresponding notebook can be found here: [crash-course-notebook](Notebooks/xActLectureMexico_workshop.nb)
 
 **Suggestion**: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. Execute each cell from begining to end to see what each command does. Delete when necessary the semicolon (;) in each line to display the intermediate steps. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
 
 **ES**:
 
-Curso corto: El taller de xAct que impartiré en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: [cuaderno-mini-curso](Notebooks/xActLectureMexico_workshop.nb)
+Curso corto: El taller de xAct que impartí en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: [cuaderno-mini-curso](Notebooks/xActLectureMexico_workshop.nb)
 
 **Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea que es lo que cada comando hace. Quite el punto y coma (;) en cada línea para ver los pasos intermedios. Los *code snippets* (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
