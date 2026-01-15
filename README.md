@@ -4,17 +4,17 @@
 
 **What is xAct?**:
 
-*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerfull tool in some research in different areas of General Relativity. For further information see [https://josmar493.dreamhosters.com/](https://josmar493.dreamhosters.com/).
+*xAct* is a package in *Mathematica* for performing tensor calculations. This symbolic algebra package has proven to be a powerful tool in some research in different areas of General Relativity. For further information, see [https://josmar493.dreamhosters.com/](https://josmar493.dreamhosters.com/).
 
 **About this workshop**:
 
-This is a crash course on the use of xAct that I have given in different institutions. This xAct workshop is meant as an introduction for students and researcher interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisits are to have a Mathematica lincense and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can be easily followed by execuiting cell by cell the course notebook.
+This is a crash course on the use of xAct that I have given in different institutions. This xAct workshop is meant as an introduction for students and researchers interested in using xAct to perform tensor calculations. This short course is very practical and a notebook for the course has been created for this purpose.  The only prerequisites are to have a Mathematica license and to install xAct as described below. Previous knowledge of Mathematica is not assumed and can be easily followed by executing cell by cell the course notebook.
 
 **ES**:
 
 **¿Qué es xAct?**:
 
-*xAct* es un paquete de *Mathematica* para realizar cálculo tensorial. Este paquete de algebra simbólica es una poderosa herramienta en diferentes áreas de Relatividad General. Para mayor información consulte  [https://josmar493.dreamhosters.com/](https://josmar493.dreamhosters.com/).
+*xAct* es un paquete de *Mathematica* para realizar cálculo tensorial. Este paquete de algebra simbólica es una poderosa herramienta en diferentes áreas de Relatividad General. Para mayor información, consulte  [https://josmar493.dreamhosters.com/](https://josmar493.dreamhosters.com/).
 
 **Acerca de este curso**:
 
@@ -24,7 +24,7 @@ Este es un curso intensivo sobre el uso de xAct que he impartido en diferentes i
 
 ### Step 0 // Paso 0:
 
-**EN**: Have Mathematica installed. Some institutions give Mathematica licences to their students and researchers. Check wether you are entitled to a Mathematica licence with your institution and install it.
+**EN**: Have Mathematica installed. Some institutions give Mathematica licences to their students and researchers. Check whether you are entitled to a Mathematica licence with your institution and install it.
 
 **ES**: Asegúrese de tener Mathematica instalado en su computadora. Algunas instituciones otorgan licencias de Mathematica a sus estudiantes e investigadores. Verifique si tiene derecho a una licencia de Mathematica en su institución e instálela.
 
@@ -77,12 +77,12 @@ subdirectorio llamado *Applications*.
 
 ### Step 5 // Paso 5:
 
-**EN**: Inside the directory xAct_1.1.5 there must be a subdirectory
+**EN**: Inside the directory xAct_1.1.5, there must be a subdirectory
 called xAct. Copy this subdirectory called xAct into X/Applications.
 **Make sure you have copied the subdirectory xAct into X/Applications and
 not xAct_1.1.5.
 since the latter is a common mistake in the installation**. The relevant
-folder to copy is xAct which is inside xAct_1.1.5.
+folder to copy is xAct, which is inside xAct_1.1.5.
 
 **ES**: Dentro del directorio xAct_1.1.5 debe haber un subdirectorio
 llamado xAct. Copie este subdirectorio llamado xAct en X/Aplicaciones.
@@ -93,13 +93,13 @@ Es decir, la carpeta que se debe copiar se llama xAct y esta se encuentra dentro
 
 ### Setp 6 // Paso 6:
 
-**EN**: To check you have installed xAct correctly open a mathematica
+**EN**: To check you have installed xAct correctly, open a mathematica
 notebook and type (copy and paste) the following:  
 ```
  <<xAct`xTensor`
 ```
 
-and press shift and enter (at the same time) to evaluate the cell. It should give message
+and press shift and enter (at the same time) to evaluate the cell. It should give a message
 about the copyrights of xAct.
 
 **ES**:  Para comprobar que ha instalado xAct correctamente, abra un Mathematica
@@ -117,13 +117,13 @@ sobre los derechos de autor de xAct.
 
 Crash course: The xAct workshop at the Division of Gravitation and Mathematical Physics (DGFM)  of the Mexican Physics Society consisted of two sessions of 40mins each and the corresponding notebook can be found here: [crash-course-notebook](Notebooks/xActLectureMexico_workshop.nb)
 
-**Suggestion**: do not execute the whole notebook at once as there are several "quit" commands inside to ensure each section is independent. Execute each cell from begining to end to see what each command does. Delete when necessary the semicolon (;) in each line to display the intermediate steps. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
+**Suggestion**: do not execute the whole notebook at once, as there are several "quit" commands inside to ensure each section is independent. Execute each cell from beginning to end to see what each command does. Delete when necessary the semicolon (;) in each line to display the intermediate steps. The code snippets give begining-to-end examples of short and concrete calculations for applications in general relativity.
 
 **ES**:
 
 Curso corto: El taller de xAct que impartí en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física consta de dos sesiones de 40mins cada una y el cuaderno correspondiente lo puede encontrar aquí: [cuaderno-mini-curso](Notebooks/xActLectureMexico_workshop.nb)
 
-**Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea que es lo que cada comando hace. Quite el punto y coma (;) en cada línea para ver los pasos intermedios. Los *code snippets* (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
+**Sugerencia**: no ejecute todo el cuaderno a la vez, ya que hay varios comandos de "quit" dentro para garantizar que cada sección sea independiente. Ejecute cada celda de principio a fin y vea qué es lo que cada comando hace. Quite el punto y coma (;) en cada línea para ver los pasos intermedios. Los *code snippets* (fragmentos de código) brindan ejemplos de principio a fin de cálculos breves y concretos para aplicaciones de relatividad general.
 
 
 ## Additional material // Material complementario
@@ -134,11 +134,11 @@ NP calculator: Here you can find a notebook that, given a null tetrad, computes 
 
 **ES**:
 
-Calculadora NP: Aqui puede encontrar un cuaderno que, dada una tetrada nula, calcula la curvatura y los coeficientes de espín del formalismo de Newman-Penrose: [CalculadoraNP](Notebooks/NP_Calculator.nb)
+Calculadora NP: Aquí puede encontrar un cuaderno que, dada una tetrada nula, calcula la curvatura y los coeficientes de espín del formalismo de Newman-Penrose: [CalculadoraNP](Notebooks/NP_Calculator.nb)
 
 ## Contact // Contacto
 
-**EN**: If you have comments, suggestions or questions you can send me an email to 
+**EN**: If you have comments, suggestions or questions, you can send me an email to 
 
 e[dot]gasperin[at]ciencias[dot]unam[dot]mx
 
