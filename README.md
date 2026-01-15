@@ -140,7 +140,7 @@ Calculadora NP: Aqui puede encontrar un cuaderno que, dada una tetrada nula, cal
 
 **EN**: If you have comments, suggestions or questions you can send me an email to 
 
-e[dot]gasperin[at]ciencias.unam.mx
+e[dot]gasperin[at]ciencias[at]unam[at]mx
 
 I have used xAct in several of my research projects, you can have a look at my papers and my research here:
 
@@ -148,7 +148,7 @@ I have used xAct in several of my research projects, you can have a look at my p
 
 **ES**: Si tienes comentarios, sugerencias o preguntas puedes enviarme un correo a
 
-e[dot]gasperin[at]ciencias.unam.mx
+e[dot]gasperin[at]ciencias[at]unam[at]mx
 
 He usado xAct en varios de mis proyectos de investigación, puedes echarle un vistazo a mis artículos y a mi investigación en 
 
